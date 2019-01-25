@@ -1,0 +1,52 @@
+*{
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  max-width: 1140px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.container {
+  display: flex;
+}
+
+ul.filter-options {
+  list-style: none;
+  padding: 0;
+} 
+
+ul.filter-options li {
+  margin: 8px auto;
+} 
+
+aside {
+  width: 30%;
+}
+
+main {
+  width: 65%;
+  margin-left: 20px;
+}
+
+.filter-heading, .product-heading {
+  font-size: 18px;
+}
+
+.product-description {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+}
+
+.product-present, #product-present {
+  float: right;
+  font-size: 12px;
+  clear: left;
+  margin-right: 15px;
+  background: #f45f42;
+  border-radius: 100%;
+  padding: 3px 8px;
+  color: #ffffff;
+  margin-left: 4px;
+}
