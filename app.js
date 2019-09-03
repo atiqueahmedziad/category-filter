@@ -20,8 +20,270 @@ const data = [
 		"popularity": 10000,
 		"rating": 2,
 		"objectID": "1696302"
+	},
+	{
+		"name": "360fly - Panoramic 360° HD Video Camera - Black",
+		"description": "Only at Best Buy  This 360fly panoramic 360&#176; HD video camera features Wi-Fi, a Bluetooth LE interface and the included 360fly app (download required), so you can easily shoot, edit, replay and share recorded video footage using a compatible iOS or Android smartphone. Included action camera adaptor lets you use your 360fly camera with your existing 3-prong mounts.",
+		"brand": "360fly",
+		"categories": [
+			"Cameras & Camcorders",
+			"Digital Cameras",
+			"Point & Shoot Cameras",
+			"360 & Panoramic Cameras"
+		],
+		"hierarchicalCategories": {
+			"lvl0": "Cameras & Camcorders",
+			"lvl1": "Cameras & Camcorders > Digital Cameras",
+			"lvl2": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras",
+			"lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > 360 & Panoramic Cameras"
+		},
+		"type": "Point&#38;shoot camcrder",
+		"price": 399.99,
+		"price_range": "200 - 500",
+		"image": "https://cdn-demo.algolia.com/bestbuy/9131042_rb.jpg",
+		"url": "http://www.bestbuy.com/site/360fly-panoramic-360-hd-video-camera-black/9131042.p?id=1219405459683&skuId=9131042&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+		"free_shipping": false,
+		"popularity": 9999,
+		"rating": 5,
+		"objectID": "9131042"
+	},
+	{
+		"name": "3DR - Backpack for Solo - Black",
+		"description": "3D Robotics Backpack for Solo Drones: Protect your Solo drone and accessories from the elements, wherever your adventures lead you. This Solo drone backpack features a custom-fitted foam interior that prevents the drone from jostling inside. The black exterior is water-resistant, with padded straps for extra comfort.",
+		"brand": "3DR",
+		"categories": [
+			"Toys, Games & Drones",
+			"Drones & Accessories",
+			"Drone Accessories",
+			"Drone Bags & Cases"
+		],
+		"hierarchicalCategories": {
+			"lvl0": "Toys, Games & Drones",
+			"lvl1": "Toys, Games & Drones > Drones & Accessories",
+			"lvl2": "Toys, Games & Drones > Drones & Accessories > Drone Accessories",
+			"lvl3": "Toys, Games & Drones > Drones & Accessories > Drone Accessories > Drone Bags & Cases"
+		},
+		"type": "Drone accessory",
+		"price": 149.95,
+		"price_range": "100 - 200",
+		"image": "https://cdn-demo.algolia.com/bestbuy/5353024_sb.jpg",
+		"url": "http://www.bestbuy.com/site/3dr-backpack-for-solo-black/5353024.p?id=1219650465782&skuId=5353024&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+		"free_shipping": false,
+		"popularity": 9998,
+		"rating": 5,
+		"objectID": "5353024"
+	},
+	{
+		"name": "3DR - Propellers for 3DR Solo Drones (2-Pack) - Black",
+		"description": "3D Robotics Propellers for Solo Drones: Buy this set of replacement propellers before you need them so you can get back to flying as soon as you damage or lose a propeller. The 1-piece design of these propellers keeps them secure during flight, self-tightening so you can install them in an instant and return to in-air fun.",
+		"brand": "3DR",
+		"categories": [
+			"Toys, Games & Drones",
+			"Drones & Accessories",
+			"Drone Accessories",
+			"Drone Parts"
+		],
+		"hierarchicalCategories": {
+			"lvl0": "Toys, Games & Drones",
+			"lvl1": "Toys, Games & Drones > Drones & Accessories",
+			"lvl2": "Toys, Games & Drones > Drones & Accessories > Drone Accessories",
+			"lvl3": "Toys, Games & Drones > Drones & Accessories > Drone Accessories > Drone Parts"
+		},
+		"type": "Drone accessory",
+		"price": 14.95,
+		"price_range": "1 - 50",
+		"image": "https://cdn-demo.algolia.com/bestbuy/5357011_rb.jpg",
+		"url": "http://www.bestbuy.com/site/3dr-propellers-for-3dr-solo-drones-2-pack-black/5357011.p?id=1219650465778&skuId=5357011&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+		"free_shipping": false,
+		"popularity": 9997,
+		"rating": 2,
+		"objectID": "5357011"
+	},
+	{
+		"name": "3DR - Solo Gimbal - Black",
+		"description": "3D Robotics Gimbal for Solo Drones: This stabilizing, 3-axis gimbal for the 3DR Solo drone gives you unprecedented remote control over your compatible GoPro action camera (sold separately). Rotate and tilt the camera, start and stop recording, take photos and adjust camera settings &#8212; all while your drone is up to a half mile away. Plus, the gimbal charges your camera in flight so you never miss a shot.",
+		"brand": "3DR",
+		"categories": [
+			"Toys, Games & Drones",
+			"Drones & Accessories",
+			"Drone Accessories",
+			"Gimbals"
+		],
+		"hierarchicalCategories": {
+			"lvl0": "Toys, Games & Drones",
+			"lvl1": "Toys, Games & Drones > Drones & Accessories",
+			"lvl2": "Toys, Games & Drones > Drones & Accessories > Drone Accessories",
+			"lvl3": "Toys, Games & Drones > Drones & Accessories > Drone Accessories > Gimbals"
+		},
+		"type": "Drone accessory",
+		"price": 399.99,
+		"price_range": "200 - 500",
+		"image": "https://cdn-demo.algolia.com/bestbuy/5352061_rb.jpg",
+		"url": "http://www.bestbuy.com/site/3dr-solo-gimbal-black/5352061.p?id=1219650467156&skuId=5352061&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+		"free_shipping": false,
+		"popularity": 9996,
+		"rating": 2,
+		"objectID": "5352061"
+	},
+	{
+		"name": "3DR - Solo Smart Rechargeable Battery - Black",
+		"description": "3D Robotics Battery for Solo Drones: Instead of waiting for your lone battery to recharge, get back to flying right away with this rechargeable battery for Solo drones. The battery can power your drone for up to 25 minutes with no camera attached, or 20 minutes carrying a camera.",
+		"brand": "3DR",
+		"categories": [
+			"Toys, Games & Drones",
+			"Drones & Accessories",
+			"Drone Accessories",
+			"Drone Batteries"
+		],
+		"hierarchicalCategories": {
+			"lvl0": "Toys, Games & Drones",
+			"lvl1": "Toys, Games & Drones > Drones & Accessories",
+			"lvl2": "Toys, Games & Drones > Drones & Accessories > Drone Accessories",
+			"lvl3": "Toys, Games & Drones > Drones & Accessories > Drone Accessories > Drone Batteries"
+		},
+		"type": "Drone accessory",
+		"price": 149.95,
+		"price_range": "100 - 200",
+		"image": "https://cdn-demo.algolia.com/bestbuy/5354101_sb.jpg",
+		"url": "http://www.bestbuy.com/site/3dr-solo-smart-rechargeable-battery-black/5354101.p?id=1219650465781&skuId=5354101&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+		"free_shipping": false,
+		"popularity": 9995,
+		"rating": 4,
+		"objectID": "5354101"
+	},
+	{
+		"name": "3M - Eureka RR Pet Micro Allergen Vacuum Bag for Select Eureka Vacuums (3-Pack)",
+		"description": "Equip your Eureka 4800 series vacuum with this odor-absorbent, micro allergen-filtering vacuum bag and help eliminate dust, dander and other airborne allergens as well as undesirable odors from your home.",
+		"brand": "3M",
+		"categories": [
+			"Appliances",
+			"Vacuum Bags"
+		],
+		"hierarchicalCategories": {
+			"lvl0": "Appliances",
+			"lvl1": "Appliances > Vacuum Bags"
+		},
+		"type": "Bags",
+		"price": 7.99,
+		"price_range": "1 - 50",
+		"image": "https://cdn-demo.algolia.com/bestbuy/9274741_sb.jpg",
+		"url": "http://www.bestbuy.com/site/3m-eureka-rr-pet-micro-allergen-vacuum-bag-for-select-eureka-vacuums-3-pack/9274741.p?id=1218072892585&skuId=9274741&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+		"free_shipping": false,
+		"popularity": 9994,
+		"rating": 3,
+		"objectID": "9274741"
+	},
+	{
+		"name": "3M - Filtrete BISSELL Replacement Belt",
+		"description": "Replace a worn-out or broken belt with these replacement belts for BISSELL vacuums.",
+		"brand": "3M",
+		"categories": [
+			"Appliances",
+			"Vacuum Belts"
+		],
+		"hierarchicalCategories": {
+			"lvl0": "Appliances",
+			"lvl1": "Appliances > Vacuum Belts"
+		},
+		"type": "Belts",
+		"price": 4.99,
+		"price_range": "1 - 50",
+		"image": "https://cdn-demo.algolia.com/bestbuy/8508064_sb.jpg",
+		"url": "http://www.bestbuy.com/site/3m-filtrete-bissell-replacement-belt/8508064.p?id=1186005357079&skuId=8508064&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+		"free_shipping": false,
+		"popularity": 9993,
+		"rating": 1,
+		"objectID": "8508064"
+	},
+	{
+		"name": "3M - Filtrete Devil Tattoo Vacuum Bag (3-Pack)",
+		"description": "Eliminate allergens from your home with these vacuum bags that grab dust, pollen and dust mites.",
+		"brand": "3M",
+		"categories": [
+			"Appliances",
+			"Vacuum Bags"
+		],
+		"hierarchicalCategories": {
+			"lvl0": "Appliances",
+			"lvl1": "Appliances > Vacuum Bags"
+		},
+		"type": "Bags",
+		"price": 5.99,
+		"price_range": "1 - 50",
+		"image": "https://cdn-demo.algolia.com/bestbuy/9940451_sb.jpg",
+		"url": "http://www.bestbuy.com/site/3m-filtrete-devil-tattoo-vacuum-bag-3-pack/9940451.p?id=1218198436866&skuId=9940451&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+		"free_shipping": false,
+		"popularity": 9992,
+		"rating": 5,
+		"objectID": "9940451"
+	},
+	{
+		"name": "3M - Filtrete Eureka R Replacement Belt for Select Eureka Vacuums",
+		"description": "This replacement belt lets you get your Eureka 4800 Series upright vacuum running like new.",
+		"brand": "3M",
+		"categories": [
+			"Appliances",
+			"Vacuum Belts"
+		],
+		"hierarchicalCategories": {
+			"lvl0": "Appliances",
+			"lvl1": "Appliances > Vacuum Belts"
+		},
+		"type": "Belts",
+		"price": 6.99,
+		"price_range": "1 - 50",
+		"image": "https://cdn-demo.algolia.com/bestbuy/8507948_sb.jpg",
+		"url": "http://www.bestbuy.com/site/3m-filtrete-eureka-r-replacement-belt-for-select-eureka-vacuums/8507948.p?id=1186005356352&skuId=8507948&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+		"free_shipping": false,
+		"popularity": 9991,
+		"rating": 1,
+		"objectID": "8507948"
+	},
+	{
+		"name": "3M - Filtrete Eureka U Replacement Belt",
+		"description": "Keep things running smoothly at home with these replacement vacuum belts on hand in case of a cleaning emergency.",
+		"brand": "3M",
+		"categories": [
+			"Appliances",
+			"Vacuum Belts"
+		],
+		"hierarchicalCategories": {
+			"lvl0": "Appliances",
+			"lvl1": "Appliances > Vacuum Belts"
+		},
+		"type": "Belts",
+		"price": 2.99,
+		"price_range": "1 - 50",
+		"image": "https://cdn-demo.algolia.com/bestbuy/8507939_sb.jpg",
+		"url": "http://www.bestbuy.com/site/3m-filtrete-eureka-u-replacement-belt/8507939.p?id=1186005356287&skuId=8507939&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+		"free_shipping": false,
+		"popularity": 9990,
+		"rating": 3,
+		"objectID": "8507939"
+	},
+	{
+		"name": "3M - Filtrete Hoover A Micro Allergen Vacuum Bag",
+		"description": "Rid your home of allergens with these vacuum bags that grab dust, pollen and dust mites.",
+		"brand": "3M",
+		"categories": [
+			"Appliances",
+			"Vacuum Bags"
+		],
+		"hierarchicalCategories": {
+			"lvl0": "Appliances",
+			"lvl1": "Appliances > Vacuum Bags"
+		},
+		"type": "Bags",
+		"price": 6.99,
+		"price_range": "1 - 50",
+		"image": "https://cdn-demo.algolia.com/bestbuy/8507644_sb.jpg",
+		"url": "http://www.bestbuy.com/site/3m-filtrete-hoover-a-micro-allergen-vacuum-bag/8507644.p?id=1186005355618&skuId=8507644&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+		"free_shipping": false,
+		"popularity": 9989,
+		"rating": 5,
+		"objectID": "8507644"
 	}
-]
+];
 
 
 // Taken 5 objects from the array to test with
