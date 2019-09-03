@@ -416,8 +416,6 @@ const handleChangeBrand = checkbox => {
 	}
 	else if(!checkbox.checked){
 		content = [];
-		//console.log("button checked out ",content);
-		//console.log("number of checked boxes ",checkboxes);
 		if(!brandListChecked.length && categroiesListChecked.length){
 			checkboxValues = [];
 			for (let i = 0; i < categroiesListChecked.length; i++) {
