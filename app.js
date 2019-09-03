@@ -414,10 +414,8 @@ const handleChangeBrand = checkbox => {
 
 		document.getElementById("product-list").innerHTML = `${productListTemplate(content)}`;
 	}
-	else if(checkbox.checked === false){
+	else if(checkbox.checked === false && checkbox.checked !== true){
 		content = [];
-		//console.log("button checked out ",content);
-		//console.log("number of checked boxes ",checkboxes);
 		if(!brandListChecked.length && categroiesListChecked.length){
 			checkboxValues = [];
 			for (let i = 0; i < categroiesListChecked.length; i++) {
